@@ -18,6 +18,7 @@ namespace CleanArch.Domain.Entities
         {
             DomainExceptionValidation.When(id < 0, 
                 "Invalid Id");
+                Id = id;
             ValidateDomain(name);
         }
 
@@ -33,6 +34,11 @@ namespace CleanArch.Domain.Entities
 
             Name = name;
                
+        }
+
+        public void Update(string name)
+        {
+            ValidateDomain(name);
         }
     }
 }

@@ -8,7 +8,37 @@ namespace CleanArch.Domain.Entities
         public decimal Price {get; private set;}
         public int Stock {get; private set;}
         public string Image {get; private set;}
-        public int CategoryId {get; private set;}
-        public Category Category {get; private set;}
+
+        private void ValidateDomain(string name, string description, decimal price, int stock, string image)
+        {
+            DomainExceptionValidation.When(string.IsNullOrEmpty(name),
+               "Invalid name.Name is required");
+            
+            DomainExceptionValidation.When(name.Length < 3,
+               "Invalid name. Too short");
+            
+            DomainExceptionValidation.When(string.IsNullOrEmpty(description),
+               "Invalid description. Description is required");
+            
+            DomainExceptionValidation.When(description.Length < 5,
+               "Invalid description. Too short");
+
+            DomainExceptionValidation.When(price < 0,
+               "Invalid price value.");
+
+            DomainExceptionValidation.When(stock < 0,
+               "Invalid stock value.");
+
+            DomainExceptionValidation.When(image.Length > 250,
+               "Invalid name. Too long");
+
+            Name = name;
+            Description = description;
+            Price = price;
+            Stock = stock;
+            Image = image;
+        }
+        public int CategoryId {get; set;}
+        public Category Category {get; set;}
     }
 }
