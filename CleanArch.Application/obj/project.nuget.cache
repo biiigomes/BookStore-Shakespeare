@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ogRQBpGggC8KDePfkCw5hJAVVd7GvhmUb+q+j9bQbfPPgjBbwQCJJcv40JYkn+M8WElJ0eboFbafk/uPQuHAnQ==",
+  "dgSpecHash": "x8vBDkKzVc6UiQB7nRnRro8In0qyQjkfganhTtV8471c0IDgk8HyoZBpM+8kny5TDpS2VLdKeAz2ZfcwgZ4PWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
+  "projectFilePath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

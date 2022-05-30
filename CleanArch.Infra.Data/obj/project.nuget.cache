@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b1C8+bLs41QXDyTwbM+MptJKpOGqKYR9eCmpjBMBv4MuHu3SlOzOVT38RCtf4eb1BNVwNv2PEI+tERy8mNv/hQ==",
+  "dgSpecHash": "dSiTuJ6Hu0xWDRcoHy2N5T8zrnTecYJ6Yr59xCsDR8S6T/GFiugesgqIcwLVH0oeTxVBRkIzKIXUg4nkRCV94w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+  "projectFilePath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

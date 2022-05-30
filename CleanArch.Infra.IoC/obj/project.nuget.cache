@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QMOb+Uf42nyL/tBIo1oRyMyydx8QD/6k4g0e8Q+SeQAlzIN+ALePcriS609OhN4qSWVNx1xVgtqsTCfvalvsVQ==",
+  "dgSpecHash": "A1h6mfgiE1WRshyE4A0+hWyAsoHkZdwEIKRVvs9cjMk17OSIEo6f3HozmRmaml/dWfIhqWqLkl1Xr3PIvck9Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+  "projectFilePath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
