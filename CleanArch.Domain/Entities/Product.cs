@@ -1,13 +1,34 @@
+using CleanArch.Domain.Validation;
+
 namespace CleanArch.Domain.Entities
 {
-    public sealed class Product
+    public sealed class Product : Entity
     {
-        public int Id {get; private set;}
         public string Name {get; private set;}
         public string Description {get; private set;}
         public decimal Price {get; private set;}
         public int Stock {get; private set;}
         public string Image {get; private set;}
+
+        public Product(string name, string description, decimal price, int stock, string image)
+        {
+           ValidateDomain(name, description, price, stock, image);
+           
+        }
+
+        public Product(int id, string name, string description, decimal price, int stock, string image)
+        {
+           DomainExceptionValidation.When(id < 0, "Invalid Id value.");
+           Id = id;
+           ValidateDomain(name, description, price, stock, image); 
+        }
+
+        public void Update(string name, string description, decimal price, int stock, string image, int categoryId)
+        {
+           ValidateDomain(name, description, price, stock, image);
+           CategoryId = categoryId;
+           
+        }
 
         private void ValidateDomain(string name, string description, decimal price, int stock, string image)
         {
