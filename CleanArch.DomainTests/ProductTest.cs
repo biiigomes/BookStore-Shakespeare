@@ -72,12 +72,20 @@ namespace CleanArch.DomainTests
                .WithMessage("Invalid stock value.");
         }
         [Fact]
-        [Trait("Categoria", "EmptyImage")]
-        public void CreateProductEmptyImage()
+        [Trait("Categoria", "NullImage")]
+        public void CreateProductNullImage()
         {
-            Action action = () => new Product(1, "Product name", "Product description", 9.99m, 99, " ");
+            Action action = () => new Product(1, "Product name", "Product description", 9.99m, 99, null);
             action.Should()
                .NotThrow<CleanArch.Domain.Validation.DomainExceptionValidation>();
+        }
+        [Fact]
+        [Trait("Categoria", "NullReferenceImage")]
+        public void CreateProductNullReferenceImage()
+        {
+            Action action = () => new Product(1, "Product name", "Product description", 9.99m, 99, null);
+            action.Should()
+               .NotThrow<NullReferenceException>();
         }
         [Fact]
         [Trait("Categoria", "LongImage")]

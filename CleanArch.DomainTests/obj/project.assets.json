@@ -6065,11 +6065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\CleanArch.DomainTests.csproj",
+      "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\CleanArch.DomainTests.csproj",
       "projectName": "CleanArch.DomainTests",
-      "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\CleanArch.DomainTests.csproj",
+      "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\CleanArch.DomainTests.csproj",
       "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\obj\\",
+      "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.DomainTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6084,8 +6084,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-              "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
+            "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+              "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
             }
           }
         }
