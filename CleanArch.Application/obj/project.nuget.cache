@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "j9G8LIaocpA3dLJfIdrQmEi8WfeP9UmtAruvMZE00e9qvFrGLqVzqr0tvUDuC85haXouZzZf9xX461DUd1fwkQ==",
+  "dgSpecHash": "N7kfGLMzVgXMlw9vlgAqVNeqJM8ZDjN6G+eh82Pybw+75RaCHyfBP5V+12rhRpstNQ8Nb6Ug7Ka15RWYvSttog==",
   "success": true,
   "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\badf\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\badf\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\badf\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\badf\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
