@@ -1,33 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj": {}
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj": {
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
         "projectName": "CleanArch.Application",
-        "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
+        "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
         "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\obj\\",
+        "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -39,8 +39,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,27 +60,27 @@
         }
       }
     },
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "projectName": "CleanArch.Domain",
-        "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\obj\\",
+        "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -91,8 +91,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -112,30 +112,30 @@
         }
       }
     },
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "projectName": "CleanArch.Infra.Data",
-        "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -147,24 +147,28 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+              "suppressParent": "None",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
@@ -186,36 +190,36 @@
         }
       }
     },
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
         "projectName": "CleanArch.Infra.IoC",
-        "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
+        "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj"
               },
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj"
               },
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               }
             }
           }
@@ -227,8 +231,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -248,30 +252,30 @@
         }
       }
     },
-    "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj": {
+    "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
         "projectName": "CleanArch.MVC",
-        "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
+        "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
         "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\obj\\",
+        "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
-                "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
+              "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
               }
             }
           }
@@ -283,8 +287,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
