@@ -10,7 +10,7 @@ namespace CleanArch.Domain.Interfaces
         
         Task<Product> GetByIdAsync(int? id);
 
-        Task<Product> GetProductCategoryAsync(int? id);
+        // Task<Product> GetProductCategoryAsync(int? id);
 
         Task<Product> CreateAsync(Product product);
 
