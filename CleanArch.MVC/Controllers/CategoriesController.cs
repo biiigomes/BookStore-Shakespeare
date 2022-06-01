@@ -100,6 +100,21 @@ namespace CleanArch.MVC.Controllers
             await _categoryService.Remove(id);
             return RedirectToAction("Index");
         }
+        public async Task<IActionResult> Details(int? id)
+        {
+            var categoryDTO = await _categoryService.GetById(id);
+
+            if(id == null)
+            {
+                return NotFound();
+            }
+            if(categoryDTO == null)
+            {
+                return NotFound();
+            }
+            return View(categoryDTO);
+
+        }
 
         
     }
