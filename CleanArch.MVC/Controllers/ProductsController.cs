@@ -2,6 +2,7 @@ using System.IO;
 using System.Threading.Tasks;
 using CleanArch.Application.DTOs;
 using CleanArch.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -78,6 +79,7 @@ namespace CleanArch.MVC.Controllers
             return View(productDTO);
         }
 
+        [Authorize(Roles="Admin")]
         [HttpGet()]
         public async Task<IActionResult> Delete(int? id)
         {

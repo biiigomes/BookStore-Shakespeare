@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6xh5zoMpjuXX2hJUuzXpmKaf/lyE7ELouRwrK/6Y/DE=",
+  "Hash": "rg6mB1dax7NIn/WP34/W7pQv6eBXGhTOZaa1K2gdXx8=",
   "Source": "CleanArch.MVC",
   "BasePath": "_content/CleanArch.MVC",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Caneta1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\images\\catalogo1.png",
+      "SourceId": "CleanArch.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "BasePath": "_content/CleanArch.MVC",
+      "RelativePath": "images/catalogo1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\catalogo1.png"
     },
     {
       "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\images\\sem-foto-sem-imagem.jpg",

@@ -2,10 +2,12 @@ using System;
 using System.Threading.Tasks;
 using CleanArch.Application.DTOs;
 using CleanArch.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArch.MVC.Controllers
 {
+    [Authorize]
     public class CategoriesController : Controller
     {
         private readonly ICategoryService _categoryService;
