@@ -38,17 +38,17 @@ namespace CleanArch.Infra.Data.Migrations
                         new
                         {
                             Id = 1,
-                            Name = "Material Escolar"
+                            Name = "Terror"
                         },
                         new
                         {
                             Id = 2,
-                            Name = "Eletrônicos"
+                            Name = "Fantasia"
                         },
                         new
                         {
                             Id = 3,
-                            Name = "Acessórios"
+                            Name = "Distopia"
                         });
                 });
 
