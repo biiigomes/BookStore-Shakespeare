@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {}
+    "C:\\Users\\badf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "projectUniqueName": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
       "projectName": "CleanArch.Domain",
-      "projectPath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Domain\\CleanArch.Domain.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Domain\\obj\\",
+      "projectPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

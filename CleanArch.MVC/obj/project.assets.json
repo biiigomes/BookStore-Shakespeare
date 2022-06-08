@@ -2132,19 +2132,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {}
+    "C:\\Users\\badf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\CleanArch.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
       "projectName": "CleanArch.MVC",
-      "projectPath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\CleanArch.MVC.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\obj\\",
+      "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\CleanArch.MVC.csproj",
+      "packagesPath": "C:\\Users\\badf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\badf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2156,8 +2156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
-              "projectPath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
+            "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
             }
           }
         }

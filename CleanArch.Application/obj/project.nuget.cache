@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TPWEgjL2B7Gv7GipSvb2gS+Ui0Bgzv0zlGNdZ03qRCO9VpBB4FGNDeauZrN/fev05zPIqeDx/9NMBhKWq2ozIw==",
+  "dgSpecHash": "N7kfGLMzVgXMlw9vlgAqVNeqJM8ZDjN6G+eh82Pybw+75RaCHyfBP5V+12rhRpstNQ8Nb6Ug7Ka15RWYvSttog==",
   "success": true,
-  "projectFilePath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Application\\CleanArch.Application.csproj",
+  "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Application\\CleanArch.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ferna\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\badf\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\badf\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\badf\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\badf\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
