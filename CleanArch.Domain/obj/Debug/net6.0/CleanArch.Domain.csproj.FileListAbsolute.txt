@@ -10,3 +10,15 @@ C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Domain
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.deps.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.AssemblyReference.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfo.cs
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll

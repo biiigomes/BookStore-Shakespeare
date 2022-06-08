@@ -4,7 +4,7 @@
 
 namespace CleanArch.Infra.Data.Migrations
 {
-    public partial class SeedingProduct : Migration
+    public partial class Seed : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

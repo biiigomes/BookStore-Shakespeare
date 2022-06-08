@@ -1,2 +1,2 @@
-dotnet ef --startup-project ../CleanArch.MVC/ add SeedProject
+dotnet ef --startup-project ../CleanArch.MVC/ migrations add SeedProject
 dotnet ef --startup-project ../CleanArch.MVC/ database update

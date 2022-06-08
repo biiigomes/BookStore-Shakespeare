@@ -19,3 +19,24 @@ C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.IoC\obj\Debug\net6.0\ref\CleanArch.Infra.IoC.dll
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.runtimeconfig.json
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.genruntimeconfig.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.deps.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.runtimeconfig.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.IoC.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Application.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.AssemblyReference.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\refint\CleanArch.Infra.IoC.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\CleanArch.Infra.IoC.genruntimeconfig.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.IoC\obj\Debug\net6.0\ref\CleanArch.Infra.IoC.dll

@@ -15,3 +15,20 @@ C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.pdb
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.genruntimeconfig.cache
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Infra.Data.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.deps.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.runtimeconfig.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.CopyComplete
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\refint\CleanArch.Infra.Data.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.genruntimeconfig.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Infra.Data.dll

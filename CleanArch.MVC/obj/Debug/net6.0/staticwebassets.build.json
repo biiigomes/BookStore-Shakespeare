@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NpxQ9h1oZWR8sNeTE6VZ0dEeii6vSQ9GYWvXIfDCdhI=",
+  "Hash": "28j4ZE7ti2zj6guYmmc0Yh6PbcISh3330f3dpcDL490=",
   "Source": "CleanArch.MVC",
   "BasePath": "_content/CleanArch.MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CleanArch.MVC\\wwwroot",
       "Source": "CleanArch.MVC",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\css\\site.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\favicon.ico",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\images\\catalogo1.png",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\images\\catalogo1.png",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "images/catalogo1.png",
       "AssetKind": "All",
@@ -68,10 +68,27 @@
       "OriginalItemSpec": "wwwroot\\images\\catalogo1.png"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\images\\Hiraeth1.jpg",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
+      "BasePath": "_content/CleanArch.MVC",
+      "RelativePath": "images/Hiraeth1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Hiraeth1.jpg"
+    },
+    {
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\js\\site.js",
+      "SourceId": "CleanArch.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -85,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -255,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -272,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -289,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CleanArch.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.MVC\\wwwroot\\",
       "BasePath": "_content/CleanArch.MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

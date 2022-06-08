@@ -13,3 +13,18 @@ C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Applic
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Application\obj\Debug\net6.0\refint\CleanArch.Application.dll
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.pdb
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.Application\obj\Debug\net6.0\ref\CleanArch.Application.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.deps.json
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.AssemblyInfo.cs
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.CopyComplete
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\refint\CleanArch.Application.dll
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.pdb
+C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.Application\obj\Debug\net6.0\ref\CleanArch.Application.dll

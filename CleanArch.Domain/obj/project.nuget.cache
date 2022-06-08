@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B37Qmwa7EnmJ4KB22qU2R382QbJ/pcIPCURAYX6ZqVOaIGD4nNaBtLOR9P8vwi1R6kLXUjvUo6J97FqHd9eolg==",
+  "dgSpecHash": "3F5rBtrB0LkarE4DAeoKs9a30Q+XrV8UuyzFEldFevOnzoQe7epXaSOGuvxtXqIyjTSknC+TlWaKX6KuRrdcdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\badf\\My Private Documents\\Programas\\Clean Architecture\\CleanArch.Domain\\CleanArch.Domain.csproj",
+  "projectFilePath": "C:\\bibi\\C#\\BookStore\\BookStore-Shakespare\\CleanArch.Domain\\CleanArch.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
