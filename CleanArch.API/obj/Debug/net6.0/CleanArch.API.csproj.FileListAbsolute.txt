@@ -52,3 +52,11 @@ C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\ob
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\obj\Debug\net6.0\CleanArch.API.pdb
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\obj\Debug\net6.0\CleanArch.API.genruntimeconfig.cache
 C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\obj\Debug\net6.0\ref\CleanArch.API.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
