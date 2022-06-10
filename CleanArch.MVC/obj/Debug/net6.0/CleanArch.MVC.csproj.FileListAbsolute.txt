@@ -102,3 +102,16 @@ C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.MVC\obj\Debug\net6.0\refint\
 C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.pdb
 C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.genruntimeconfig.cache
 C:\bibi\C#\BookStore\BookStore-Shakespare\CleanArch.MVC\obj\Debug\net6.0\ref\CleanArch.MVC.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\badf\My Private Documents\Programas\Clean Architecture\CleanArch.MVC\obj\Debug\net6.0\CleanArch.MVC.MvcApplicationPartsAssemblyInfo.cs

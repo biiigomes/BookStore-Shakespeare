@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CleanArch.MVC.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "Admin")]
     public class CategoriesController : Controller
     {
         private readonly ICategoryService _categoryService;

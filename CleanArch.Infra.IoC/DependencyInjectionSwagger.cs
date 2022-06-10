@@ -5,20 +5,22 @@ namespace CleanArch.Infra.IoC
 {
     public static class DependencyInjectionSwagger
     {
-         public static IServiceCollection AddInfrastructureSwagger(this IServiceCollection services)
-         {
-             services.AddSwaggerGen(c =>
+        public static IServiceCollection AddInfrastructureSwagger(this IServiceCollection services)
+        {
+            services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Shakespare.BookStore", Version = "v1" });
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme{
-                    In = ParameterLocation.Header,
-                    Description = "Please insert token",
-                    Name = "Authorization",
-                    Type=SecuritySchemeType.Http,
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "BookStore.Shakespeare", Version = "v1"});
+
+                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+                {
+                    Name="Authorization",
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer",
                     BearerFormat = "JWT",
-                    Scheme = "Bearer"
+                    In = ParameterLocation.Header,
+                    Description = "Put the JWT below, please"
                 });
-                
+
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement
                 {
                     {
@@ -30,13 +32,11 @@ namespace CleanArch.Infra.IoC
                                 Id = "Bearer"
                             }
                         },
-                        new string[]{}
+                        new string[] {}
                     }
                 });
             });
-            
             return services;
-
-         }
+        }
     }
 }

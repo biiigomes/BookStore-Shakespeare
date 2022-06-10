@@ -11,15 +11,13 @@ namespace CleanArch.Infra.IoC
     {
         public static IServiceCollection AddInfrastructureJWT(this IServiceCollection services, IConfiguration configuration)
         {
-            //tipo de autenticacao JWT
-            //modelo de desafio
-            services.AddAuthentication(opt =>{
+            services.AddAuthentication(opt=>
+            {
                 opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
                 opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             })
-            //autenticacao jwt
-            //validar token
-            .AddJwtBearer(options => {
+            .AddJwtBearer(options =>
+            {
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuer = true,
@@ -30,9 +28,7 @@ namespace CleanArch.Infra.IoC
                     ValidIssuer = configuration["Jwt:Issuer"],
                     ValidAudience = configuration["Jwt:Audience"],
                     IssuerSigningKey = new SymmetricSecurityKey(
-                        Encoding.UTF8.GetBytes(
-                            configuration["Jwt:SecretKey"])),
-                    ClockSkew = TimeSpan.Zero
+                        Encoding.UTF8.GetBytes(configuration["Jwt:SecretKey"]))
                 };
             });
             return services;

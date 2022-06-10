@@ -7,7 +7,6 @@ namespace CleanArch.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
     public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;
@@ -38,7 +37,8 @@ namespace CleanArch.API.Controllers
 
             return Ok(product);
         }
-
+        
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult> Post([FromForm] ProductDTO productDTO)
         {
@@ -47,7 +47,8 @@ namespace CleanArch.API.Controllers
             await _productService.Add(productDTO);
             return new CreatedAtRouteResult("GetProduct", new {id = productDTO.Id}, productDTO);
         }
-
+        
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<ActionResult> Put(int id, [FromForm] ProductDTO productDTO)
         {
@@ -62,6 +63,7 @@ namespace CleanArch.API.Controllers
             return Ok(productDTO);
         }
 
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<ActionResult<ProductDTO>> Delete(int id)
         {

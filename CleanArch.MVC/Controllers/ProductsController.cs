@@ -37,6 +37,7 @@ namespace CleanArch.MVC.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(ProductDTO productDTO)
         {
             if(ModelState.IsValid)
@@ -49,6 +50,7 @@ namespace CleanArch.MVC.Controllers
         }
 
         [HttpGet()]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(int? id)
         {
             var productDTO = await _productService.GetById(id);
@@ -69,6 +71,7 @@ namespace CleanArch.MVC.Controllers
         }
 
         [HttpPost()]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Edit(ProductDTO productDTO)
         {
             if(ModelState.IsValid)
@@ -99,6 +102,7 @@ namespace CleanArch.MVC.Controllers
         }
 
         [HttpPost(), ActionName("Delete")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _productService.Remove(id);

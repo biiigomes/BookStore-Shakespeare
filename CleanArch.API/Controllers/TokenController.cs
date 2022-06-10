@@ -66,8 +66,7 @@ namespace CleanArch.API.Controllers
             {
                 new Claim("email", loginModel.Email),
                 new Claim("meuvalor", "qualquercoisaae"), 
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                new Claim(ClaimTypes.Role,"Admin")
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
             //chave privada
